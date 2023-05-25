@@ -8,7 +8,7 @@
       "y": -6.8120565,
       "value": 123456,
       "category": 1,
-      "url": "https://github.com/kagarcia1618/draw.io"
+      "url": "https://github.com/kagarcia1618/draw.io",
     },
     {
       "id": "26",
@@ -18,7 +18,7 @@
       "y": -31.512747,
       "value": 31.428574,
       "category": 6,
-      "url": "https://github.com/kagarcia1618/draw.io"
+      "url": "https://github.com/kagarcia1618/draw.io",
     }
   ],
   "links": [
@@ -26,8 +26,8 @@
       "value": "test_value",
       "url": "https://github.com/kagarcia1618/draw.io",
       "source": "26",
-      "target": "11"
-    }
+      "target": "11",
+    },
   ],
   "categories": [
     {
@@ -56,6 +56,6 @@
     },
     {
       "name": "I"
-    }
-  ]
+    },
+  ],
 }
