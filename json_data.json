@@ -106,7 +106,8 @@
       "x": -87.93029,
       "y": -6.8120565,
       "value": 123456,
-      "category": 1
+      "category": 1,
+      "url": "https://github.com/kagarcia1618/draw.io"
     },
     {
       "id": "12",
@@ -241,7 +242,8 @@
       "x": 78.64646,
       "y": -31.512747,
       "value": 31.428574,
-      "category": 6
+      "category": 6,
+      "url": "https://github.com/kagarcia1618/draw.io"
     },
     {
       "id": "27",
