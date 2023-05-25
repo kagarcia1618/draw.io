@@ -1,61 +1,61 @@
 {
-  "nodes": [
+  "nodes":[
     {
-      "id": "11",
-      "name": "Kenneth",
-      "symbolSize": 66.66666666666667,
-      "x": -87.93029,
-      "y": -6.8120565,
-      "value": 123456,
-      "category": 1,
-      "url": "https://github.com/kagarcia1618/draw.io",
+      "id":"11",
+      "name":"Kenneth",
+      "symbolSize":66.66666666666667,
+      "x":-87.93029,
+      "y":-6.8120565,
+      "value":123456,
+      "category":1,
+      "url":"https://github.com/kagarcia1618/draw.io"
     },
     {
-      "id": "26",
-      "name": "Cosette",
-      "symbolSize": 20.95238266666667,
-      "x": 78.64646,
-      "y": -31.512747,
-      "value": 31.428574,
-      "category": 6,
-      "url": "https://github.com/kagarcia1618/draw.io",
+      "id":"26",
+      "name":"Cosette",
+      "symbolSize":20.95238266666667,
+      "x":78.64646,
+      "y":-31.512747,
+      "value":31.428574,
+      "category":6,
+      "url":"https://github.com/kagarcia1618/draw.io"
     }
   ],
-  "links": [
+  "links":[
     {
-      "value": "test_value",
-      "url": "https://github.com/kagarcia1618/draw.io",
-      "source": "26",
-      "target": "11",
-    },
+      "value":"test_value",
+      "url":"https://github.com/kagarcia1618/draw.io",
+      "source":"26",
+      "target":"11"
+    }
   ],
-  "categories": [
+  "categories":[
     {
-      "name": "A"
+      "name":"A"
     },
     {
-      "name": "B"
+      "name":"B"
     },
     {
-      "name": "C"
+      "name":"C"
     },
     {
-      "name": "D"
+      "name":"D"
     },
     {
-      "name": "E"
+      "name":"E"
     },
     {
-      "name": "F"
+      "name":"F"
     },
     {
-      "name": "G"
+      "name":"G"
     },
     {
-      "name": "H"
+      "name":"H"
     },
     {
-      "name": "I"
-    },
-  ],
+      "name":"I"
+    }
+  ]
 }
