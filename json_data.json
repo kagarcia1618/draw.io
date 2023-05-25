@@ -909,7 +909,7 @@
     },
     {
       "value": "test_value",
-      url: 'https://github.com/kagarcia1618/draw.io',
+      "url": "https://github.com/kagarcia1618/draw.io",
       "source": "26",
       "target": "11"
     },
